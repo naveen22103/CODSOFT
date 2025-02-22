@@ -97,8 +97,11 @@ A Python-based contact management system that functions as a mini-database for s
 
 
 🔹 Key Skills: Hands-on experience with data storage, retrieval, and manipulation using Python.
+
 📌 Search for contacts by name or phone number.
+
 📌 Update existing contact information.
+
 📌 Delete contacts when needed.
 
 This task builds skills in data storage, retrieval, and manipulation using Python.
