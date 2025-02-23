@@ -1,6 +1,6 @@
 🚀 CODSOFT Internship Tasks
 
-Welcome to the CODESOFT Python Programming Internship repository! 🎉 This repository showcases a series of hands-on projects designed to enhance Python programming skills through real-world applications.
+Welcome to the CODSOFT Python Programming Internship repository! 🎉 This repository showcases a series of hands-on projects designed to enhance Python programming skills through real-world applications.
 
 
 📂 Repository Structure
